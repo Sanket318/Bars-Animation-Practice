@@ -45,15 +45,9 @@ export default function Bars() {
           ))}
         </div>
         <div id="controls" >
-          <button id="start" onClick={handleStart}>
-            Start
-          </button>
-          <button id="reset" onClick={handleReset}>
-            Reset
-          </button>
-          <button id="stop" onClick={handleStop}>
-            Stop
-          </button>
+          <button id="start" onClick={handleStart}>Start</button>
+          <button id="reset" onClick={handleReset}>Reset</button>
+          <button id="stop" onClick={handleStop}>Stop</button>
         </div>
       </div>
     );
