@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bars-Animation-Practice/static/css/main.c74dab39.css",
+    "main.js": "/Bars-Animation-Practice/static/js/main.b304a5e4.js",
+    "static/js/453.f21489fd.chunk.js": "/Bars-Animation-Practice/static/js/453.f21489fd.chunk.js",
+    "index.html": "/Bars-Animation-Practice/index.html",
+    "main.c74dab39.css.map": "/Bars-Animation-Practice/static/css/main.c74dab39.css.map",
+    "main.b304a5e4.js.map": "/Bars-Animation-Practice/static/js/main.b304a5e4.js.map",
+    "453.f21489fd.chunk.js.map": "/Bars-Animation-Practice/static/js/453.f21489fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c74dab39.css",
+    "static/js/main.b304a5e4.js"
+  ]
+}
